@@ -29,8 +29,8 @@ images/sample.jpg
 
 <script>
   const tanukiImages = [
-    "https://example.com/tanuki1.png",  // 例1: フリー素材サイトのURL
-    "https://example.com/tanuki2.jpg",  // 例2
+    "[https://example.com/tanuki1.png](https://www.collinsdictionary.com/images/thumb/raccoondog_87452444_250.jpg?version=6.0.83)",  // 例1: フリー素材サイトのURL
+    "[https://example.com/tanuki2.jpg](https://japannews.yomiuri.co.jp/wp-content/uploads/2023/09/10735239.jpg)",  // 例2
     "https://example.com/tanuki3.gif",  // 例3
     // ... 他のタヌキ画像のURLをここに追加 ...
   ];
